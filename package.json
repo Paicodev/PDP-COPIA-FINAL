@@ -13,6 +13,8 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "better-sqlite3": "^12.4.1",
+    "prompt-sync": "^4.2.0",
+    "uuid": "^13.0.0"
   }
 }
